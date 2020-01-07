@@ -56,7 +56,7 @@
   }
 
   .border-right {
-    border: 10px;
+    border: 10px solid red;
   }
 
   #details div {
