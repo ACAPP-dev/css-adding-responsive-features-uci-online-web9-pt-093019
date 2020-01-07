@@ -70,4 +70,8 @@
   #navbar nav a.menu-icon{display: inline-block;}
 
   #logo h2 {display: none;}
+
+  #logo h1 {position: absolute;
+    right: 8px;
+  }
 }
