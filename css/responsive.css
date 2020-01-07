@@ -49,6 +49,10 @@
     column-count: 1;
   }
 
-  
+  [class*="col-"] {
+    width: 100%;
+    margin-left: 0;
+    float: none;
+  }
 
 }
